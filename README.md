@@ -11,3 +11,5 @@ Objective
 Your goal in Booster is to land the rocket safely on the green-colored landing pads scattered throughout the game world. You need to use precise control of the rocket's rotation and thrust to achieve a successful landing.
 
 Enjoy!!!
+
+Game recording: https://shorturl.at/hThgb
